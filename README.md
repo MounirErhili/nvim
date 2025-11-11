@@ -43,10 +43,16 @@
   mv ~/.local/share/nvim ~/.local/share/nvim.bak
   ```
 
-- Clone the repo
+- Clone with github
 
   ```sh
   git clone https://github.com/MounirErhili/nvim ~/.config/nvim
+  ```
+
+- Clone with codeberg
+
+  ```sh
+  git clone https://codeberg.org/MounirErhili/nvim ~/.config/nvim
   ```
 
 - Remove the `.git` folder, so you can add it to your own repo later
